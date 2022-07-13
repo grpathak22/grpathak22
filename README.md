@@ -3,15 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grpathak22&label=Profile%20views&color=0e75b6&style=flat" alt="grpathak22" /> </p>
 
-- I’m currently learning **C language, Python , Data Structures and Algorithms.**
+- I’m currently learning **C, Python ,Flutter, Data Structures and Algorithms.**
 
-- I’m looking to collaborate on **Data Science Projects, Learning App development with Flutter.**
+- I’m looking to collaborate on **Data Science Projects, App development with Flutter.**
 
-- I’m looking for help with **Flutter**
+- I’m looking for help with **Flutter**.
 
-- 📫 How to reach me **grpathak4722@gmail.com**
+- 💻Dexterity in --> Adobe Lightroom, Adobe Premiere Pro Editing.
 
-- ⚡ Fun fact **The probability of you existing at all comes out to 1 in 10^2,685,000**
+- Avocation --> **Wildlife Photography.**
+
+- 📫 How to reach me **heckergrp@gmail.com**
+
+- I can speak **English, German, Hindi, Marathi.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
