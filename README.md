@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grpathak22&label=Profile%20views&color=0e75b6&style=flat" alt="grpathak22" /> </p>
 
-- I’m currently learning **C, Python ,Flutter, Data Structures and Algorithms.**
+- I’m currently learning <code>**C, Python ,Flutter, Data Structures and Algorithms.**</code>
 
 - I’m looking to collaborate on **Data Science Projects, App development with Flutter.**
 
@@ -16,7 +16,7 @@
 - 📫 How to reach me
   Email --> **heckergrp@gmail.com**
 
-- I can speak **English, German, Hindi, Marathi.**
+- I can speak --> <code>**English, German, Hindi, Marathi.**</code>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
