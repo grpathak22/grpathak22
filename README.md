@@ -13,7 +13,8 @@
 
 - Avocation --> **Wildlife Photography.**
 
-- 📫 How to reach me **heckergrp@gmail.com**
+- 📫 How to reach me
+  Email --> **heckergrp@gmail.com**
 
 - I can speak **English, German, Hindi, Marathi.**
 
