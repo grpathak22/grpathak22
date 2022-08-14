@@ -9,14 +9,8 @@
 
 - I’m looking for help with **Flutter**.
 
-- 💻Dexterity in --> Adobe Lightroom, Adobe Premiere Pro Editing.
-
-- Avocation --> **Wildlife Photography.**
-
 - 📫 How to reach me
   Email --> **heckergrp@gmail.com**
-
-- I can speak --> <code>**English, German, Hindi, Marathi.**</code>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
